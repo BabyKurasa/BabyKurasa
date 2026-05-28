@@ -2,7 +2,7 @@
 
 A passionate and self-driven student on a journey to master programming — one line of code at a time.
 
-> "Discipline and hard work are the foundations of every great developer."
+> "Trust the process. Built different."
 
 ---
 
@@ -21,7 +21,6 @@ A passionate and self-driven student on a journey to master programming — one 
 
 - 🎓 Currently a student, actively learning and building
 - 💪 Strong believer in discipline over motivation
-- 🔁 Consistent practice every single day
 - 🌱 Growing through projects, mistakes, and persistence
 - 🤝 Open to collaborating on beginner-friendly projects
 
