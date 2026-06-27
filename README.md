@@ -1,6 +1,6 @@
 # Hello, I'm Baby 👋
 
-### Data Engineering Enthusiast | Python | SQL 
+### Data Engineering Enthusiast | Python | SQL | System Design | Building in Public
 
 > "Trust the process. Built different."
 
@@ -23,6 +23,19 @@ I believe in consistent effort, continuous learning, and building real-world pro
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+## 🏗️ System Design Concepts I'm Learning
+
+| Concept | What I'm Learning |
+|---------|-------------------|
+| **Distributed Systems** | CAP Theorem, Consistency Models |
+| **Data Architecture** | ETL vs ELT, Data Warehousing, Data Lakes |
+| **Scalability** | Horizontal/Vertical Scaling, Sharding |
+| **Caching** | Redis, Memcached |
+| **Message Queues** | Kafka, RabbitMQ |
+| **Microservices** | Service Architecture, API Design |
 
 ---
 
