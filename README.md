@@ -1,6 +1,6 @@
 # Hello, I'm Baby 👋
 
-### Data Engineering Enthusiast | Python | SQL | Building in Public
+### Data Engineering Enthusiast | Python | SQL 
 
 > "Trust the process. Built different."
 
